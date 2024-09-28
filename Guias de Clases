@@ -1,0 +1,11 @@
+Proyecto ".NET Framework"
+Opciones: - C# - Windows - Web
+
+Para empezar proyecto nuevo crear carpeta "Restricted" dentro de la primer capa de la App.
+
+Dentro de Restricted Agregar - Nuevo Elemento - C#, Web, Web Forms, Web Forms con Pagina Maestra
+- Aqui en este formulario eliminar el ASP:ContentPlaceHolder que se encuentra antes del BODY
+
+Luego dentro de Restricted Agregar - Nuevo Elemento - C#, Web, Web Forms, Formulario Web con Pagina Maestra (para crear sub-paginas heredando el WebFormMasterPage)
+
+ATAJOS: Ctrl + K + D (Ordena el formateo del codigo)
